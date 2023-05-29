@@ -1,0 +1,32 @@
+ body{
+   background-image:url("../images/mountains1.jpeg");
+    background-color: #cccccc;
+   
+   }
+   img{height: 183px;width:275px}
+
+   nav{ 
+      background:black;
+      padding:5px 20px;}
+      Ul{list-style-type: none;}
+      a{color:orange;
+          text-decoration: none;
+   }
+   #box1 {width:200px; height:200px; background-color:black; }
+#box2 {width:200px; height:200px; background-color: black;  }
+h2{color: orange;}
+h1{background:orange;
+   padding:5px 10px;}
+   select{width: 100%;
+      max-width: 700px;
+      background: rgba(255, 255, 255, 0.2);
+      display: flex; align-items: center; border-radius: 60px;
+      padding: 10px}
+      #results {
+         margin-top: 2em;}
+         select#location,
+#type,
+#mountainList {
+  background-color: transparent;
+  color: white;
+}
